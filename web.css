@@ -1,0 +1,44 @@
+body{
+    background-color:rgba(175, 223, 223, 0.575);
+}
+.navlist{
+    color:rgb(64, 21, 236);
+    padding-left:10%;
+    padding:0px 10px;
+    margin:0px 30px;
+}
+.navlist:hover{
+    border:1px solid white;
+    border-radius:4px;
+    color:white;
+    background-color: rgb(11, 196, 247);}
+.nav ul{
+    display:flex
+}
+#myname{
+    color:rgb(214, 131, 30);
+    text-align: left;
+    font-family:cursive;
+}
+button{
+    color:rgb(247, 247, 247);
+    background-color:rgba(0, 208, 255, 0.764);
+    padding:7px;
+    border:2px solid cyan;
+    border-radius:10px;
+    font-size:19px;
+    font-family:monospace;
+}
+.nav ul li{
+    list-style:none;
+}
+button:hover{
+    border:0px solid white;
+    background: #ffffff;
+    color: black;
+}
+h1{
+    color:rgb(104, 60, 6);
+    font-stretch: expanded;
+    font-variant: small-caps;
+}
